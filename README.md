@@ -1,1 +1,1 @@
-# Lab1
+# https://github.com/AKlimovUrfu/lab1
